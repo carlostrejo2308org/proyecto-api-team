@@ -1,0 +1,42 @@
+
+  * Deezer web-site:
+  https://www.deezer.com/es/
+
+  * Last.fm web-site:
+  https://www.last.fm/
+  
+  * Last.fm api tool:
+  https://pypi.org/project/pylast/
+  https://github.com/pylast/pylast
+
+ ---------------------------------------------------------
+
+   Email Address:
+  * e-mail: user.statistics.project@outlook.com
+  * password: #User.statistics.2022@
+
+   Deezer account:
+  * username: Mr. User
+  * e-mail: user.statistics.project@outlook.com
+  * password: #User.statistics.2022@
+
+   last.fm account:
+  * username: Mr-User
+  * e-mail: user.statistics.project@outlook.com
+  * password: #User.statistics.2022@
+
+ ---------------------------------------------------------
+ 
+ 	~ Last.FM APLICATION DATA ~
+ 
+  - App Name: User Statistics
+  - Callback URL: http://localhost/3000/
+  - Application homepage: http://localhost/3000/
+
+	~ AUTHENTICATION API ~
+
+  - api_key: 1780b18a0490c40d21d2d9d6ea19900b
+  - secret_key: 93700682270fbaecfdf2943ca9c25e9a
+
+ ---------------------------------------------------------
+	
